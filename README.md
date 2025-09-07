@@ -2,7 +2,7 @@ Jeremy Neale Chess Dashboard
 
 https://dashapp-1050976616574.us-east1.run.app/
 
-Link live as of: July 8th, 2025
+Link live as of: August 7th, 2025
 
 This dashboard is open-source and can be set up to run locally or deployed as a web application.
 
@@ -67,5 +67,6 @@ queen is moved.
 • Certain openings are better for certain colors at different elo ranges.
 
 • Certain ECO openings are more prone to draws, and this range tends to be at higher elos.
+
 
 These conclusions are observational, so they are NOT conclusive cause-effect relationships by any mean.
